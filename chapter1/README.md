@@ -7,3 +7,8 @@
     - [exercise 1.3](ex_1_3.md)
     - [exercise 1.4](ex_1_4.md)
     - [exercise 1.5](ex_1_5.md)
+### Section 1.1.7
+- My solutions for
+    - [exercise 1.6](ex_1_6.md)
+    - exercise 1.7 : TODO
+    - [exercise 1.8](ex_1_8.md)
