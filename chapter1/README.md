@@ -10,5 +10,5 @@
 ### Section 1.1.7
 - My solutions for
     - [exercise 1.6](ex_1_6.md)
-    - exercise 1.7 : TODO
+    - [exercise 1.7](ex_1_7.md)
     - [exercise 1.8](ex_1_8.md)
