@@ -12,3 +12,7 @@
     - [exercise 1.6](ex_1_6.md)
     - [exercise 1.7](ex_1_7.md)
     - [exercise 1.8](ex_1_8.md)
+## Section 1.2
+### Section 1.2.1
+- My Solutions for
+    - [exercise 1.9](ex_1_9.md)
