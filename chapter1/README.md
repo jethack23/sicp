@@ -16,3 +16,4 @@
 ### Section 1.2.1
 - My Solutions for
     - [exercise 1.9](ex_1_9.md)
+    - [exercise 1.10](ex_1_10.md)
