@@ -22,3 +22,6 @@
     - [exercise 1.11](ex_1_11.md)
     - [exercise 1.12](ex_1_12.md)
     - [exercise 1.13](ex_1_13.md)
+### Section 1.2.3
+- My Solution for
+    - [exercise 1.14](ex_1_14.md)
