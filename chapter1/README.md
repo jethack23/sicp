@@ -25,3 +25,4 @@
 ### Section 1.2.3
 - My Solution for
     - [exercise 1.14](ex_1_14.md)
+    - [exercise 1.15](ex_1_15.md)
