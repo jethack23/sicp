@@ -30,3 +30,4 @@
 - My Solutions for
     - [excercise 1.16](ex_1_16.md)
     - [excercise 1.17](ex_1_17.md)
+    - [excercise 1.18](ex_1_18.md)
