@@ -32,3 +32,6 @@
     - [excercise 1.17](ex_1_17.md)
     - [excercise 1.18](ex_1_18.md)
     - [excercise 1.19](ex_1_19.md)
+### Section 1.2.5
+- My Solution for
+    - [exercise 1.20](ex_1_20.md)
