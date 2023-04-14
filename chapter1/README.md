@@ -35,3 +35,8 @@
 ### Section 1.2.5
 - My Solution for
     - [exercise 1.20](ex_1_20.md)
+### Section 1.2.6
+- My Solutions for
+    - [excercise 1.21](ex_1_21.md)
+    - [excercise 1.22](ex_1_22.md)
+    - [excercise 1.23](ex_1_23.md)
